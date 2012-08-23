@@ -4,7 +4,7 @@ Creates awesome hexagon patterns.
 
 ###Spec/Usage:
 
-- Unzip hexgonator.zip and launch the app
+- Download/Unzip [hexgonator.zip](https://github.com/downloads/bruzed/hexagonator/hexgonator.zip) and launch the app
 - 2 windows should open up
 	- Main window: contains the generated graphic
 	- Gui window: contains sliders to control various parameters for the generated graphic
